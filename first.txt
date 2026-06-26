@@ -1,3 +1,4 @@
 This is the first file in the three folder/directory/repo
 added second line of text with some more text
 added another file to the third line 
+added fourth line to the file
