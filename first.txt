@@ -1,1 +1,2 @@
 This is the first file in the three folder/directory/repo
+added second line of text with some more text
